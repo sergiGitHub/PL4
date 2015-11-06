@@ -76,7 +76,7 @@
 							echo "</tr>";
 						$totalvis += $vi;
 						}
-						echo "<th>Total visits: </th><th>".$totalvis."</th>";
+						echo "<tr><td>Total visits: </td><td>".$totalvis."</td></tr>";
 						?>
 					</tbody>
 				</table>
